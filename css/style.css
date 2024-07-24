@@ -670,7 +670,7 @@ skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span {
     left: -100%;
     width: 100%;
     padding: 1rem 4%;
-    background: var(--main-color);
+    background: var(--bg-color);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
     transition: 0.25s ease;
     transition-delay: 0.25s;
