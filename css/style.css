@@ -380,7 +380,13 @@ sup {
   font-size: 1.35rem;
   padding-top: 0.5rem;
 }
-
+.education-content .content a {
+  display: inline-block;
+  font-size: 1.5rem;
+  color: var(--text-color);
+  padding-top: 1rem;
+  font-weight: 500;
+}
 /* EDUCATION SECTION ENDS*/
 
 /* SKILL SECTION */
